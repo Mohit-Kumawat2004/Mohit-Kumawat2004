@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit-Kumawat2004
-- 👀 I’m interested in Back-end Development
+- 👀 I’m Expert in Back-end Development
 - 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Creds
 - 📫 How to reach me thorough Linkdein
 - 😄 Pronouns: HE\HIM
 - ⚡ Fun fact: About 75% of the human brain is made of water.
