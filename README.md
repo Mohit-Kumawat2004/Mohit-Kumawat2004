@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-kumawat2004&show_icons=true&locale=en" alt="mohit-kumawat2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-kumawat2004&" alt="mohit-kumawat2004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-kumawat2004&" alt="mohit-kumawat2004" /></p> 
