@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Car Rental Management System**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohit-Kumawat2004/Minor_Projects](https://github.com/Mohit-Kumawat2004/Minor_Projects)
+- 👨‍💻 All of my minor projects are available at [https://github.com/Mohit-Kumawat2004/Minor_Projects](https://github.com/Mohit-Kumawat2004/Minor_Projects)
 
-- 💬 Ask me about **Data Structures and Algorithms , Databases , Python**
+- 💬 Ask me about **Data Structures and Algorithms , Databases , Python, MYSQL,**
 
 - 📫 How to reach me **unofficialkumawatmohit7678@gmail.com**
 
